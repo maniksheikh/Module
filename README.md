@@ -1,24 +1,9 @@
 # second-module
 
-## Project setup
-```
-npm install
-```
+### It`s simply Vue projects. Any word can be added here, and can be deleted, very funny projects.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### https://added-quotecom.netlify.app
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+https://user-images.githubusercontent.com/91281850/236821324-b213c23b-86db-40f6-93c8-955fe0840938.mp4
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
